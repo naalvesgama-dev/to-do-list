@@ -1,24 +1,32 @@
 # To-do List
 
-Projeto de lista de tarefas desenvolvido durante meus estudos de front-end.
+Aplicação de lista de tarefas desenvolvida para praticar HTML, CSS e JavaScript.
 
-## Funcionalidades
+## 🔗 Acesse o projeto
 
-- Adicionar tarefas.
-- Editar e cancelar a edição.
-- Excluir tarefas.
-- Marcar tarefas como concluídas.
-- Filtrar tarefas por status: todas, pendentes e concluídas.
-- Mostrar a quantidade de tarefas pendentes.
-- Salvar tarefas no navegador com localStorage.
-- Layout adaptado para celular.
+[Ver To-do List online](https://naalvesgama-dev.github.io/to-do-list/)
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Git e GitHub
+- GitHub Pages
 
-## Como executar
+## ✨ Funcionalidades
 
-Baixe os arquivos do projeto e abra o arquivo index.html no navegador.
+- Adicionar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas
+- Interface simples e responsiva
+
+## 🚀 Como visualizar localmente
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/naalvesgama-dev/to-do-list.git
+   ```
+
+2. Abra o arquivo `index.html` no navegador.
