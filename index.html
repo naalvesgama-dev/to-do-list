@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do List | Nathália</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Lista de Tarefas</h1>
+    </header>
+    <section>
+        <label for="input-tarefa">Nova tarefa</label>
+        <input
+            type="text"
+            id="input-tarefa"
+            placeholder="Digite uma tarefa"
+        >
+        <button id="btn-adicionar">Adicionar</button>
+        <div class="filtros">
+            <button id="filtro-todos" class="btn-filtro">Todos</button>
+            <button id="filtro-pendentes" class="btn-filtro">Pendentes</button>
+            <button id="filtro-concluidas" class="btn-filtro">Concluídas</button>
+        </div>
+        <p id="contador"></p>
+        <ul id="lista-tarefas">
+        </ul>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
